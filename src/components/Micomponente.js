@@ -40,7 +40,7 @@ return (
             <button onClick={before}>Anterior</button>
         </section>
         <section>
-            cambia el año : 
+            Cambia el año : 
             <input
             onChange={cambiar}
             type="text"
