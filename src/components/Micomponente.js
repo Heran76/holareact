@@ -31,9 +31,9 @@ return (
     <frameElement>
         <h2>Ejercicio de Eventos y UseState</h2>
         <hr></hr>
-        <sect>
+        <section className='label label-green'>
             <strong>El año actual es : </strong>{yearactual}
-        </sect>
+        </section>
         <section>
             <button onClick={after}>Despues</button>
             &nbsp;
