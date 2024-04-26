@@ -35,7 +35,7 @@ return (
             <strong>El año actual es : </strong>{yearactual}
         </sect>
         <section>
-            <button onClick={after}>despues</button>
+            <button onClick={after}>Despues</button>
             &nbsp;
             <button onClick={before}>Anterior</button>
         </section>
